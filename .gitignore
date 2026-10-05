@@ -1,0 +1,9 @@
+.next/
+main/.idx/.next/
+.idx/
+node_modules/
+main/node_modules/
+.env
+*.env
+*.env.local
+.DS_Store
