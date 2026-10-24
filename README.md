@@ -71,8 +71,8 @@ sweacha-frontend/
 ```
 
 ## Prerequisites
-- Node.js >= 18.x
-- npm >= 9.x
+- Node.js 22.x (Active LTS)
+- npm 10.x
 
 ## Environment Variables
 Create `main/.env.local` using placeholders:
